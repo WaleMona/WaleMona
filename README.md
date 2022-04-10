@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Machine Learning, Biological Circuits, and Mathematical Modeling 
 - 🌱 I’m currently learning ...Machine Learning with Python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... lxndrmona@gmail.com or twitter: @mona_wale
+- 📫 How to reach me ... walemona21@outlook.com or twitter: @mona_wale
 
 <!---
 WaleMona/WaleMona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
